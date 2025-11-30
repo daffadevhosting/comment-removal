@@ -3,7 +3,7 @@
 Struktur Project
 
 ```
-comment-clean/
+comment-removal/
 ├── package.json
 ├── server.js
 ├── routes/
